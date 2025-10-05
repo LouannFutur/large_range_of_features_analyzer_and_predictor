@@ -5,5 +5,8 @@ By Louann Naccache (alone)
 Fun fact :
 I started about 10h p.m. to end up at 3h18 a.m. (the moment where I am writing this). 
 I've study all the day, and it's a rare moment for me, to enjoy AI. 
+
+And I'll of course publish another code (liscesed) with the continuety, for like putting in form the project in real world ...
+
 I gonna sleep
 

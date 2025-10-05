@@ -1,0 +1,2 @@
+# large_range_of_features_analyzer_and_predictor.ipynb
+The idea is to be able to group up many features together and predict them in the future for example. These without using any transformers, or attention model except this one. In fact, the idea in this project isn't to raise attention to something, but to find the most persistant feature that doesn't align with others for uniformization. Naccache
